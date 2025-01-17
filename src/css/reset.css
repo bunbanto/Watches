@@ -8,7 +8,7 @@ p {
   margin: 0;
 }
 
-ul,
+ul, 
 ol {
   margin: 0;
   padding: 0;
@@ -41,8 +41,4 @@ img {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
-input,
-textarea {
-  outline: none;
 }

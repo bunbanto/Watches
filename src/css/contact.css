@@ -24,7 +24,7 @@ textarea {
   justify-content: flex-start;
 }
 
-/* Контейнер для форми */
+/* Контейнер для формы */
 .contact-us-first {
   display: flex;
   flex-wrap: wrap;
@@ -33,7 +33,7 @@ textarea {
   background: #f3f3f3;
 }
 
-/* Опис форми */
+/* Описание формы */
 .contact-us-paragraf {
   font-size: 14px;
   line-height: 1.29;
@@ -50,7 +50,7 @@ textarea {
   gap: 18px;
 }
 
-/* Стилі для полів вводу */
+/* Стили для полей ввода */
 .contact-us-input-style {
   border: 1px solid rgba(12, 12, 12, 0.15);
   border-radius: 12px;
@@ -62,7 +62,7 @@ textarea {
   line-height: 1.29;
 }
 
-/* Стилі для текстової області */
+/* Стили для текстовой области */
 .contact-us-input-style-com {
   border: 1px solid rgba(12, 12, 12, 0.15);
   border-radius: 12px;
@@ -76,7 +76,7 @@ textarea {
   line-height: 1.29;
 }
 
-/* Стилі для кнопки */
+/* Стили для кнопки */
 .contact-us-bth {
   width: 134px;
   padding: 12px 50px;
@@ -108,7 +108,7 @@ textarea {
   border-color: #3350e9;
 }
 
-/* Адаптивні стилі */
+/* Адаптивные стили */
 @media screen and (min-width: 768px) {
   .contact-us-title {
     font-weight: 600;

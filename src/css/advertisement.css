@@ -12,7 +12,8 @@
   }
 
   .caption-container {
-    max-width: 295px;
+    width: 100%;
+    /* max-width: 279px; */
     padding: 60px 28px;    
     border-radius: 30px;
     background-color: #0c0c0c;
